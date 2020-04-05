@@ -3,7 +3,7 @@ import random as rand
 import sys
 import os
 import time
-
+a
 RES = 500
 UNIT = RES//20
 HEAD_X = RES//2
