@@ -2,7 +2,7 @@ import pygame as pg
 import random as rand
 import sys
 import os
-import time
+import timea
 
 RES = 500
 UNIT = RES//20
